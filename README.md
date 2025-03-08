@@ -39,3 +39,14 @@ El proyecto consta de los siguientes archivos principales:
 - **`operativa_docentes.js`**: Funciones JavaScript para manejar la interacción del usuario.
 
 ---
+
+## 🖼️ Capturas de pantalla
+
+![Formulario de alta de docentes](capturas/altaDocentes.jpg)  
+*Formulario para dar de alta nuevos docentes.*
+
+![Listado de docentes](capturas/DocentesIndex.jpg)  
+*Listado de todos los docentes registrados.*
+
+![Consulta de docentes](capturas/consultarDocentes.jpg)  
+*Formulario para consultar la información de un docente.*
