@@ -46,7 +46,7 @@ El proyecto consta de los siguientes archivos principales:
 *Formulario para dar de alta nuevos docentes.*
 
 ![Listado de docentes](capturas/docentesIndex.jpg)  
-*Listado de todos los docentes registrados.*
+*Listado de todos los docentes registrados con las opciones consultar, eliminar, ver la información actual del docente y comentarios sobre el.*
 
 ![Consulta de docentes](capturas/consultarDocentes.jpg)  
-*Formulario para consultar la información de un docente.*
+*Formulario para consultar o actualizar la información de un docente.*
