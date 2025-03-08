@@ -45,7 +45,7 @@ El proyecto consta de los siguientes archivos principales:
 ![Formulario de alta de docentes](capturas/altaDocentes.jpg)  
 *Formulario para dar de alta nuevos docentes.*
 
-![Listado de docentes](capturas/DocentesIndex.jpg)  
+![Listado de docentes](capturas/docentesIndex.jpg)  
 *Listado de todos los docentes registrados.*
 
 ![Consulta de docentes](capturas/consultarDocentes.jpg)  
