@@ -16,26 +16,26 @@ function mostrarResultados(datos, contenedor) {
             <div class='listado-row'>
                 <div class='icon-col'>
                    <a href='#'>
-				  		 <img src='img/lupa.svg' alt='Consultar' title='Consultar' width='30' height='20' border='0' onclick='consultarDocente("${docente.num_identificacion}","${docente.nombre_completo}");'/>
-				   </a>
+			<img src='img/lupa.svg' alt='Consultar' title='Consultar' width='30' height='20' border='0' onclick='consultarDocente("${docente.num_identificacion}","${docente.nombre_completo}");'/>
+		   </a>
                 </div>
                 <div class='icon-col'>
                     <a href='#'>
                         <img src='img/borrar.svg' alt='Eliminar' title='Eliminar' width='30' height='20' border='0' onclick="eliminarDocente('${docente.num_identificacion}');"/>
                     </a>
                 </div>
-				<div class='icon-col'>
-				    <a href='#'>
-				        <img src='img/InfoAhora.svg' alt='InfoAhora' title='InfoAhora' width='30' height='20' border='0' onclick="consultarCursosDocente('${docente.num_identificacion}','${docente.nombre_completo}');" />
-				    </a>
-				</div>
-	                <div class='col'>${docente.num_identificacion}</div>
-	                <div class='col'>${docente.nombre_completo}</div>
-	                <div class='col'>${docente.especialidades}</div>
-	                <div class='col'>${docente.disponibilidad}</div>
-	             <div class='col'>
-				 <img src="img/Comments.svg" alt="Comentarios docente" title="${docente.comentarios}" width="30" height="20" border="0" onclick="comentarios('${docente.comentarios}')"/>
-				 </div>
+		<div class='icon-col'>
+		    <a href='#'>
+		        <img src='img/InfoAhora.svg' alt='InfoAhora' title='InfoAhora' width='30' height='20' border='0' onclick="consultarCursosDocente('${docente.num_identificacion}','${docente.nombre_completo}');" />			    
+	  	    </a>				
+		</div>
+		<div class='col'>${docente.num_identificacion}</div>
+		<div class='col'>${docente.nombre_completo}</div>
+		<div class='col'>${docente.especialidades}</div>
+		<div class='col'>${docente.disponibilidad}</div>
+		<div class='col'>
+			<img src="img/Comments.svg" alt="Comentarios docente" title="${docente.comentarios}" width="30" height="20" border="0" onclick="comentarios('${docente.comentarios}')"/>
+		 </div>
              </div>`;
         });
     } else {
@@ -334,7 +334,6 @@ function actualizarDocente(clave) {
 	// Función que modifica un elemento HTML con el contenido del listado
 	function consultarCursosDocente(num_identificacion,nombre_completo) {
 
-		
 		document.getElementById("barra-opciones").innerHTML+=`<button type="submit" class="opcion activo">Cursos realizado por: ${nombre_completo}</button>`;
 		document.getElementById("opcion1").className = "opcion atenuado";
 
