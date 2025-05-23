@@ -39,3 +39,9 @@
 └── assets/
     ├── js/operativa_docentes.js  # Lógica frontend
     └── css/styles.css            # Estilos personalizados
+
+## 📸 CAPTURAS
+
+![Captura 1](capturas/docentesIndex.jpg)  
+![Captura 2](capturas/consultarDocentes.jpg)  
+![Captura 3](capturas/altaDocentes.jpg)  
