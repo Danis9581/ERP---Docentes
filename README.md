@@ -42,6 +42,6 @@
 
 ## 📸 CAPTURAS
 
-![Captura 1](capturas/docentesIndex.jpg)  
+![Captura 1](/capturas/docentesIndex.jpg)  
 ![Captura 2](capturas/consultarDocentes.jpg)  
-![Captura 3](capturas/altaDocentes.jpg)  
+![Captura 3](capturas/altaDocentes.jpg)
