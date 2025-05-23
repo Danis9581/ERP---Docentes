@@ -24,6 +24,12 @@
 | **Base de Datos**| MySQL 8.0                  | Almacenamiento relacional seguro     |
 | **Servidor**     | Apache/Nginx               | Entorno de ejecución                 |
 
+## 📸 CAPTURAS
+
+![Index Docentes](capturas/docentesIndex.jpg)  
+![Consultar Docentes](capturas/consultarDocentes.jpg)  
+![Alta Docentes](capturas/altaDocentes.jpg)
+
 ## 📂 Estructura del Proyecto
 ```bash
 ├── core/
@@ -39,21 +45,3 @@
 └── assets/
     ├── js/operativa_docentes.js  # Lógica frontend
     └── css/styles.css            # Estilos personalizados
-
-## 📸 CAPTURAS
-
-![Index Docentes](./capturas/docentesIndex.jpg)  
-![Consultar Docentes](./capturas/consultarDocentes.jpg)  
-![Alta Docentes](./capturas/altaDocentes.jpg)
-
-## 📸 CAPTURAS
-
-![Index Docentes](capturas/docentesIndex.jpg)  
-![Consultar Docentes](capturas/consultarDocentes.jpg)  
-![Alta Docentes](capturas/altaDocentes.jpg)
-
-## 📸 CAPTURAS
-
-![Index Docentes](https://github.com/tu-usuario/tu-repo/raw/main/capturas/docentesIndex.jpg)  
-![Consultar Docentes](https://github.com/tu-usuario/tu-repo/raw/main/capturas/consultarDocentes.jpg)  
-![Alta Docentes](https://github.com/tu-usuario/tu-repo/raw/main/capturas/altaDocentes.jpg)
