@@ -45,3 +45,15 @@
 ![Index Docentes](./capturas/docentesIndex.jpg)  
 ![Consultar Docentes](./capturas/consultarDocentes.jpg)  
 ![Alta Docentes](./capturas/altaDocentes.jpg)
+
+## 📸 CAPTURAS
+
+![Index Docentes](capturas/docentesIndex.jpg)  
+![Consultar Docentes](capturas/consultarDocentes.jpg)  
+![Alta Docentes](capturas/altaDocentes.jpg)
+
+## 📸 CAPTURAS
+
+![Index Docentes](https://github.com/tu-usuario/tu-repo/raw/main/capturas/docentesIndex.jpg)  
+![Consultar Docentes](https://github.com/tu-usuario/tu-repo/raw/main/capturas/consultarDocentes.jpg)  
+![Alta Docentes](https://github.com/tu-usuario/tu-repo/raw/main/capturas/altaDocentes.jpg)
